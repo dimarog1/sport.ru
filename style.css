@@ -180,20 +180,18 @@ header nav .part:hover {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-color: rgb(20, 20, 20);
-	height: 600px;
-	padding-top: 10%;
+	height: 550px;
+	padding-top: 250px;
 }
+
+/* ! slider ! */
 
 .slider {
 	width: 1100px;
 	height: 600px;
 	overflow: hidden;
 	border-radius: 5px;
-}
-
-.middle {
-	position: absolute;
-	margin-top: 11%;
+	margin-top: 150px;
 	margin-left: 50%;
 	transform: translate(-50%, -50%);
 }
@@ -452,9 +450,9 @@ footer {
 	position: relative;
 	top: 7px;
 	height: 30px;
+	margin: 0 10px;
 }
 
 .contacts ul li {
 	font-size: 25px;
-	margin-bottom: 10px;
 }
